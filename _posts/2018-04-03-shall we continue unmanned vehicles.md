@@ -41,3 +41,5 @@
 原文转载请标明出处。
 
 deepious保持深度好奇心。
+
+欢迎告诉我你的想法：我的邮箱 deepious@sina.com
