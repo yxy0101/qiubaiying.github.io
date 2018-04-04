@@ -4,7 +4,7 @@ SEOTitle: Deepious | YXY Blog
 header-img: img/post-bg-desk.jpg
 email: yanxiangyuan@gmail.com
 description: "Every failure is leading towards success."
-keyword: "YXY, Internet product, 闫相元的博客, yanxiangyuan, 产品经理, 认知思考, 交互设计"
+keyword: "闫相元博客, YXY, 闫相元的博客, yanxiangyuan, 产品经理, 认知思考, 交互设计"
 url: "http://yxy0101.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yxy0101/yxy0101.github.io.git" # you code repository
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: f15ede7de6122274f2d8                            #生成的clientID
   clientSecret: 9317ef912c0b4b9b2eb9633e02a90e4db14f2891    #生成的clientSecret
   repo: yxy0101.github.io    #仓库名称
