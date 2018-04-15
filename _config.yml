@@ -2,7 +2,7 @@
 title: Deepious 保持深度好奇
 SEOTitle: Deepious | YXY Blog
 header-img: img/post-bg-desk.jpg
-email: yanxiangyuan@gmail.com
+email: deepious@sina.com
 description: "Every failure is leading towards success."
 keyword: "闫相元博客, YXY, 闫相元的博客, yanxiangyuan, 产品经理, 认知思考, 交互设计"
 url: "http://yxy0101.github.io"          # your host, for absolute URL
@@ -17,7 +17,7 @@ sidebar-avatar: /img/YXY.jpg      # use absolute URL, seeing it's used in both `
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    yxy0101
